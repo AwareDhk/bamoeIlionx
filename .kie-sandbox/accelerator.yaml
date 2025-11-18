@@ -1,0 +1,10 @@
+# This file was automatically created by BAMOE Canvas. Please don't modify it.
+bpmnDestinationFolder: src/main/resources/bpmn
+dmnDestinationFolder: src/main/resources/dmn
+gitRepositoryGitRef: 9.3.0-ibm-0007-spring-boot-full
+gitRepositoryUrl: https://github.com/IBM/bamoe-canvas-quarkus-accelerator
+iconUrl: images/springboot-logo.png
+name: Spring Boot (Full)
+otherFilesDestinationFolder: src/main/resources/others
+scesimDestinationFolder: src/test/resources/scesim
+appliedAt: '2025-11-18T13:44:45.057Z'
